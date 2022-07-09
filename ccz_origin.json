@@ -1,0 +1,20 @@
+{
+  	"Game_Unit_Count" : "0x200",
+  	"Game_Unit_Offset" : "0x18c",
+  	"Game_Item_Count": "0x68",
+  	"Game_Item_Offset": "0x418c",
+  	"Game_Shop_Offset" : "0x4bb4",
+	"Game_Force_Offset": "0x53dc",
+	"Game_Force_Count" : "0x35",
+	"Game_Terrain_Offset" : "0x5973",
+	"Game_Magic_Count" : "0x44",
+	"Game_Magic_Offset" : "0x5fc7",
+	"Game_Magic_Length" : "0x46",
+	"Imsg_UnitOriginal_Offset" : "0x15F90",
+	"Imsg_Item_Offset": "0x0",
+	"Imsg_Critical_Offset" : "0x222e0",
+	"Exe_Force_offset" : "0x8afbc",
+	"Imsg_Force_Offset" : "0x11170",
+	"Imsg_Magic_Offset" : "0x7530"
+}
+

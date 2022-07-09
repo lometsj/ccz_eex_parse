@@ -1,0 +1,239 @@
+<Config>
+	<TypeName>Original</TypeName>
+	<DisplayName>原版曹操传</DisplayName>
+	<LanguageGB>true</LanguageGB>
+	<ItemCustomRange>false</ItemCustomRange>
+	<SaveMpExtension>false</SaveMpExtension>
+	<SingularAttribute>false</SingularAttribute>
+	<DataFileDirectory>U:\CczEditorTest\原版</DataFileDirectory>
+	<Offsets>
+		<Offset Key="Game_Unit_Count">200</Offset>
+		<Offset Key="Game_Unit_Offset">18C</Offset>
+		<Offset Key="Game_Item_Count">68</Offset>
+		<Offset Key="Game_Item_Offset">418C</Offset>
+		<Offset Key="Game_Shop_Offset">4BB4</Offset>
+		<Offset Key="Game_Force_Offset">53DC</Offset>
+		<Offset Key="Game_Force_Length">1B</Offset>
+		<Offset Key="Game_Terrain_Offset">5973</Offset>
+		<Offset Key="Game_Magic_Count">44</Offset>
+		<Offset Key="Game_Magic_Offset">5FC7</Offset>
+		<Offset Key="Game_Magic_Length">46</Offset>
+		<Offset Key="Imsg_Item_Offset">0</Offset>
+		<Offset Key="Imsg_Magic_Offset">7530</Offset>
+		<Offset Key="Imsg_Stage_Count">3A</Offset>
+		<Offset Key="Imsg_Stage_Offset">C350</Offset>
+		<Offset Key="Imsg_Force_Offset">11170</Offset>
+		<Offset Key="Imsg_UnitOriginal_Offset">15F90</Offset>
+		<Offset Key="Imsg_Retreat_Offset">1FBD0</Offset>
+		<Offset Key="Imsg_Critical_Offset">222E0</Offset>
+		<Offset Key="Imsg_Staff_Offset">27100</Offset>
+		<Offset Key="Imsg_UnitExtension_Offset">2D050</Offset>
+		<Offset Key="Save_Gold_Offset">32</Offset>
+		<Offset Key="Save_LoyalTreacherousValue_Offset">56</Offset>
+		<Offset Key="Save_ItemEquipment_Offset">57</Offset>
+		<Offset Key="Save_ItemAmount_Offset">2AF</Offset>
+		<Offset Key="Save_Unit_Offset">14DC</Offset>
+	</Offsets>
+	<Forces>
+		<Force Id="0">群雄</Force>
+		<Force Id="1">英雄</Force>
+		<Force Id="2">霸王</Force>
+		<Force Id="3">轻步兵</Force>
+		<Force Id="4">重步兵</Force>
+		<Force Id="5">近卫兵</Force>
+		<Force Id="6">弓兵</Force>
+		<Force Id="7">弩兵</Force>
+		<Force Id="8">连弩兵</Force>
+		<Force Id="9">轻骑兵</Force>
+		<Force Id="10">重骑兵</Force>
+		<Force Id="11">亲卫队</Force>
+		<Force Id="12">弓骑兵</Force>
+		<Force Id="13">弩骑兵</Force>
+		<Force Id="14">连弩骑兵</Force>
+		<Force Id="15">轻炮车</Force>
+		<Force Id="16">重炮车</Force>
+		<Force Id="17">霹雳车</Force>
+		<Force Id="18">武术家</Force>
+		<Force Id="19">拳士</Force>
+		<Force Id="20">拳圣</Force>
+		<Force Id="21">贼兵</Force>
+		<Force Id="22">义贼</Force>
+		<Force Id="23">豪杰</Force>
+		<Force Id="24">策士</Force>
+		<Force Id="25">参谋</Force>
+		<Force Id="26">军师</Force>
+		<Force Id="27">风水士</Force>
+		<Force Id="28">方术士</Force>
+		<Force Id="29">仙术士</Force>
+		<Force Id="30">道士</Force>
+		<Force Id="31">幻术士</Force>
+		<Force Id="32">妖术士</Force>
+		<Force Id="33">骑马策士</Force>
+		<Force Id="34">骑马参谋</Force>
+		<Force Id="35">骑马军师</Force>
+		<Force Id="36">舞娘</Force>
+		<Force Id="37">舞姬</Force>
+		<Force Id="38">巫女</Force>
+		<Force Id="39">西凉骑兵</Force>
+		<Force Id="40">黄巾军</Force>
+		<Force Id="41">海盗</Force>
+		<Force Id="42">驯熊师</Force>
+		<Force Id="43">驯虎师</Force>
+		<Force Id="44">都督</Force>
+		<Force Id="45">咒术士</Force>
+		<Force Id="46">仙人</Force>
+		<Force Id="47">辎重队</Force>
+		<Force Id="48">粮草队</Force>
+		<Force Id="49">木人</Force>
+		<Force Id="50">土偶</Force>
+		<Force Id="51">皇帝</Force>
+		<Force Id="52">百姓</Force>
+	</Forces>
+	<ForceCategories>
+		<ForceCategory Id="0">君主</ForceCategory>
+		<ForceCategory Id="1">步兵</ForceCategory>
+		<ForceCategory Id="2">弓兵</ForceCategory>
+		<ForceCategory Id="3">骑兵</ForceCategory>
+		<ForceCategory Id="4">弓骑兵</ForceCategory>
+		<ForceCategory Id="5">炮车</ForceCategory>
+		<ForceCategory Id="6">武术家</ForceCategory>
+		<ForceCategory Id="7">贼兵</ForceCategory>
+		<ForceCategory Id="8">策士</ForceCategory>
+		<ForceCategory Id="9">风水士</ForceCategory>
+		<ForceCategory Id="10">道士</ForceCategory>
+		<ForceCategory Id="11">骑马策士</ForceCategory>
+		<ForceCategory Id="12">舞娘</ForceCategory>
+		<ForceCategory Id="13">西凉骑兵</ForceCategory>
+		<ForceCategory Id="14">黄巾军</ForceCategory>
+		<ForceCategory Id="15">海盗</ForceCategory>
+		<ForceCategory Id="16">驯熊师</ForceCategory>
+		<ForceCategory Id="17">驯虎师</ForceCategory>
+		<ForceCategory Id="18">都督</ForceCategory>
+		<ForceCategory Id="19">咒术士</ForceCategory>
+		<ForceCategory Id="20">仙人</ForceCategory>
+		<ForceCategory Id="21">辎重队</ForceCategory>
+		<ForceCategory Id="22">粮草队</ForceCategory>
+		<ForceCategory Id="23">木人</ForceCategory>
+		<ForceCategory Id="24">土偶</ForceCategory>
+		<ForceCategory Id="25">皇帝</ForceCategory>
+		<ForceCategory Id="26">百姓</ForceCategory>
+	</ForceCategories>
+	<ItemConfigs>
+		<Configs>
+			<Config Key="WeaponsMin">0</Config>
+			<Config Key="WeaponsMax">13</Config>
+			<Config Key="ArmorMin">14</Config>
+			<Config Key="ArmorMax">17</Config>
+			<Config Key="AuxiliaryMin">18</Config>
+			<Config Key="AuxiliaryMax">62</Config>
+			<Config Key="ConsumablesMin">63</Config>
+			<Config Key="ConsumablesMax">76</Config>
+		</Configs>
+		<Effects>
+			<Effect Id="0">普通剑</Effect>
+			<Effect Id="1">特殊剑</Effect>
+			<Effect Id="2">普通枪</Effect>
+			<Effect Id="3">特殊枪</Effect>
+			<Effect Id="4">普通弓</Effect>
+			<Effect Id="5">特殊弓</Effect>
+			<Effect Id="6">普通棍</Effect>
+			<Effect Id="7">特殊棍</Effect>
+			<Effect Id="8">普通炮车</Effect>
+			<Effect Id="9">特殊炮车</Effect>
+			<Effect Id="10">普通扇</Effect>
+			<Effect Id="11">特殊扇</Effect>
+			<Effect Id="12">普通宝剑</Effect>
+			<Effect Id="13">特殊宝剑</Effect>
+			<Effect Id="14">普通铠甲</Effect>
+			<Effect Id="15">特殊铠甲</Effect>
+			<Effect Id="16">普通衣服</Effect>
+			<Effect Id="17">特殊衣服</Effect>
+			<Effect Id="18">每回合恢复HP</Effect>
+			<Effect Id="19">每回合恢复MP</Effect>
+			<Effect Id="20">每回合恢复状态</Effect>
+			<Effect Id="21">每回合获得Exp</Effect>
+			<Effect Id="22">每回合获得武器Exp</Effect>
+			<Effect Id="23">每回合获得护具Exp</Effect>
+			<Effect Id="24">辅助攻击力</Effect>
+			<Effect Id="25">辅助精神力</Effect>
+			<Effect Id="26">辅助防御力</Effect>
+			<Effect Id="27">辅助爆发力</Effect>
+			<Effect Id="28">辅助士气</Effect>
+			<Effect Id="29">辅助HP</Effect>
+			<Effect Id="30">辅助MP</Effect>
+			<Effect Id="31">辅助获得Exp</Effect>
+			<Effect Id="32">辅助移动力</Effect>
+			<Effect Id="33">突击移动</Effect>
+			<Effect Id="34">恶路移动</Effect>
+			<Effect Id="35">混乱攻击</Effect>
+			<Effect Id="36">中毒攻击</Effect>
+			<Effect Id="37">麻痹攻击</Effect>
+			<Effect Id="38">封杀策略</Effect>
+			<Effect Id="39">辅助攻击命中</Effect>
+			<Effect Id="40">遇反击后反击</Effect>
+			<Effect Id="41">致命一击攻击</Effect>
+			<Effect Id="42">远距攻击</Effect>
+			<Effect Id="43">穿透攻击</Effect>
+			<Effect Id="44">无反击攻击</Effect>
+			<Effect Id="45">骑马攻击</Effect>
+			<Effect Id="46">引导攻击</Effect>
+			<Effect Id="47">辅助火类策略</Effect>
+			<Effect Id="48">辅助风类策略</Effect>
+			<Effect Id="49">节约MP</Effect>
+			<Effect Id="50">可以禁咒</Effect>
+			<Effect Id="51">策略模仿</Effect>
+			<Effect Id="52">辅助策略命中</Effect>
+			<Effect Id="53">辅助攻击防御</Effect>
+			<Effect Id="54">辅助策略防御</Effect>
+			<Effect Id="55">辅助全防御</Effect>
+			<Effect Id="56">防御远距攻击</Effect>
+			<Effect Id="57">防御致命一击</Effect>
+			<Effect Id="58">防御两次攻击</Effect>
+			<Effect Id="59">减轻策略损伤</Effect>
+			<Effect Id="60">MP辅助防御</Effect>
+			<Effect Id="61">减轻远距损伤</Effect>
+			<Effect Id="62">自动使用豆</Effect>
+			<Effect Id="63">恢复HP</Effect>
+			<Effect Id="64">恢复MP</Effect>
+			<Effect Id="65">治疗混乱</Effect>
+			<Effect Id="66">治疗中毒</Effect>
+			<Effect Id="67">治疗麻痹</Effect>
+			<Effect Id="68">治疗禁咒</Effect>
+			<Effect Id="69">状态恢复</Effect>
+			<Effect Id="70">武力上升</Effect>
+			<Effect Id="71">智力上升</Effect>
+			<Effect Id="72">统御力上升</Effect>
+			<Effect Id="73">敏捷上升</Effect>
+			<Effect Id="74">运气上升</Effect>
+			<Effect Id="75">等级上升</Effect>
+			<Effect Id="76">兵种上升</Effect>
+		</Effects>
+	</ItemConfigs>
+	<Hitareas>
+		<Hitarea Id="0">十字</Hitarea>
+		<Hitarea Id="1">九宫</Hitarea>
+		<Hitarea Id="2">弓兵（一一格）</Hitarea>
+		<Hitarea Id="3">弩兵（一二格）</Hitarea>
+		<Hitarea Id="4">连弩兵（一三格）</Hitarea>
+		<Hitarea Id="5">爆炎（直线二格）</Hitarea>
+		<Hitarea Id="6">无羽箭（二格）</Hitarea>
+		<Hitarea Id="7">轻炮车（三一格）</Hitarea>
+		<Hitarea Id="8">霹雳车（三二格）</Hitarea>
+		<Hitarea Id="9">弓骑</Hitarea>
+		<Hitarea Id="10">全屏</Hitarea>
+		<Hitarea Id="11">无攻击</Hitarea>
+		<Hitarea Id="12">大无羽箭（三格）</Hitarea>
+		<Hitarea Id="13">大大无羽箭（四格）</Hitarea>
+		<Hitarea Id="14">比较特殊的形状</Hitarea>
+		<Hitarea Id="15">大方块</Hitarea>
+	</Hitareas>
+	<Effareas>
+		<Effarea Id="0">单体</Effarea>
+		<Effarea Id="1">十字</Effarea>
+		<Effarea Id="2">九宫</Effarea>
+		<Effarea Id="3">无羽箭（二格）</Effarea>
+		<Effarea Id="4">直线二格</Effarea>
+		<Effarea Id="5">直线六格</Effarea>
+		<Effarea Id="6">大无羽箭（三格）</Effarea>
+	</Effareas>
+</Config>
